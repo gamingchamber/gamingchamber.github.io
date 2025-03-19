@@ -27,6 +27,7 @@ html,body{
 }
 #nav img{
     height: 35vh;
+    width: 50vw;
     /* border-radius: 50%; */
 }
 #nav h4{
